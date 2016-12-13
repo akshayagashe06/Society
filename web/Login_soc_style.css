@@ -1,0 +1,22 @@
+.main_login
+{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    /*position: absolute;*/
+    height: 100%;
+}
+
+.main_login .input-group
+{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+
+/*
+.login_area .glyphicon
+{
+    display: inline-block;
+    margin-top: -10px;
+}*/
